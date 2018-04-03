@@ -55,8 +55,7 @@ ul li {
 }
 
 footer {
-    background: url("../images/the-flatiron-building.png") no-repeat scroll center;
-    background-size: cover;
+    background-color: dimgray;
     text-align: left;
 }
 
@@ -66,6 +65,5 @@ footer p {
 
 footer .small {
     font-size: 11px;
-    background-color: dimgray;
 }
 
