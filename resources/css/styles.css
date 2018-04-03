@@ -11,31 +11,25 @@ header {
     background-size: cover;
 }
 
-h1 {
-    font-size: 70px;
+h1, h2, h3 {
     font-weight: bold;
 }
 
-ul {
-    list-style-type: none;
+h1 {
+    font-size: 70px;
 }
 
-ul li {
-    margin: 0 0 15px 0;
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 23px;
 }
 
 .menu-link {
     color: white;
-}
-
-.our-process h2 {
-    font-size: 32px;
-    font-weight: bold;
-}
-
-.our-process h3 {
-    font-size: 23px;
-    font-weight: bold;
+    text-decoration: underline;
 }
 
 .designed-in {
@@ -45,13 +39,6 @@ ul li {
 
 .designed-in h3 {
     color: white;
-    font-size: 23px;
-    font-weight: bold;
-}
-
-.info h3 {
-    font-size: 23px;
-    font-weight: bold;
 }
 
 footer {
